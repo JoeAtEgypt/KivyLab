@@ -1,2 +1,4 @@
 # KivyLab
-Layouts, Widgets and Canvas 
+1. Layouts 
+2. 2. Widgets 
+3. 3. Canvas 
